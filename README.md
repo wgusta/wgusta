@@ -11,8 +11,6 @@ Building web platforms, design systems, and AI workflows for energy, health, and
 
 ## Projects
 
-🔐 [TherapyList](https://github.com/wgusta/therapylist) · Encrypted waitlist SaaS for Swiss therapists. AES-256-GCM, DSG compliant, magic-link auth, Swiss QR-invoice billing. ([therapylist.ch](https://therapylist.ch))
-
 ⚡ [sihlhack](https://github.com/wgusta/sihlhack) · Energy hackathon platform for 150 participants. AI-first dev with CLAUDE.md as multi-agent backbone, Three.js 3D landing, Vercel Postgres. ([sihlhack.ch](https://sihlhack.ch))
 
 🎓 [luckhack](https://github.com/wgusta/luckhack) · Statistics scholarship challenge via SSH terminal. Go + Charm Bubble Tea TUI, auto-graded tasks, live leaderboard. Built without AI. ([luckhack.ch](https://luckhack.ch))
