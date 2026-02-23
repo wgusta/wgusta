@@ -33,8 +33,6 @@ Building web platforms, design systems, and AI workflows for energy, health, and
 
 🚑 **reaswiss** · First aid and emergency training by active paramedics. Next.js, ProcessWire CMS, Stripe. ([reaswiss.ch](https://reaswiss.ch))
 
-🍳 **esskunst** · Culinary arts website. Content strategy, SEO, Wix integration.
-
 🥬 **bioco** · Demeter vegetable cooperative in Baden-Brugg. ProcessWire CMS, Matomo analytics. ([bioco.ch](https://bioco.ch))
 
 ## Connect
