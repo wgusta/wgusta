@@ -3,7 +3,6 @@
 > 1. with wind blowing in strong sudden movements
 > 2. letting **güney usta** take the steering wheel and experience strong sudden movements inside databases, ai‑integration and design projects
 
-📍 Baden, Switzerland · Design, Writing, AI Engineering
 
 `Next.js` `React` `TypeScript` `Python` `Go` `Flask` `TailwindCSS` `PostgreSQL` `Docker` `Three.js`
 
